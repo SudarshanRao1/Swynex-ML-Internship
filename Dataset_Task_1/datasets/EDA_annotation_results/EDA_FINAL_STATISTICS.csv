@@ -1,0 +1,16 @@
+Metric,Value
+Total annotation files,33771.0
+Valid objects,12359.0
+Invalid annotation rows,68.0
+Mean objects per file,0.3659648811110124
+Median objects per file,0.0
+Mean bbox width,0.09463928805006423
+Mean bbox height,0.06275820355357209
+Mean bbox area,0.007979602542648777
+Median bbox area,0.00432390288426615
+Mean bbox aspect ratio,1.8439956922487988
+Small objects,8870.0
+Medium objects,3442.0
+Large objects,47.0
+PFM-1 objects,6813.0
+PMA-2 objects,5546.0
